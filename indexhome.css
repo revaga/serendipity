@@ -5,12 +5,16 @@ body {
   overflow: hidden;
   //background-image: url('https://d33wubrfki0l68.cloudfront.net/2c321a7b7549cb89ac41774281fdb46e25cdde0f/44d93/art/013_constructive/constructive323_hu2065611a230055f56b52499e46502cda_1790476_500x500_fill_q75_box_center.jpg');
   background-image: url('https://cdn.wallpapersafari.com/9/10/mabxzv.jpg');
-
 }
 
 
 h1{
   color: white
+}
+
+h3{
+  color: pink
+
 }
 
 .center {
