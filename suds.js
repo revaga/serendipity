@@ -1,5 +1,8 @@
+//uses Perlin Noise
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  text('press mouse to play!', 30, 30);
+
 }
 
 function draw() {
